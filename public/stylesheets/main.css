@@ -1,0 +1,21 @@
+.p-5 {
+    padding: 12rem!important;
+}
+
+.mt-2 {
+    margin-top: -7.5rem!important;
+}
+
+.heading {
+	color: black;
+}
+
+.book {
+	width: 100%;
+}
+
+.container1 {
+	position: absolute;
+    left: 0px;
+    right: 0px;
+}
